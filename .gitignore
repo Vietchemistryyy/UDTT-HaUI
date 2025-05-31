@@ -1,0 +1,17 @@
+# Ignore compiled files
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore build directories
+/build/
+/bin/
+/Debug/
+/Release/
+
+# Ignore user-specific files (optional)
+*.log
+*.tmp
+*.user
+*.suo
